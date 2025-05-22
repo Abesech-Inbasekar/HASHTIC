@@ -1,0 +1,10 @@
+main.c:186:1:__io_putchar	1
+main.c:203:5:main	18
+main.c:492:6:SystemClock_Config	4
+main.c:538:6:HAL_ADC_ConvCpltCallback	2
+main.c:547:6:HAL_GPIO_EXTI_Callback	5
+main.c:569:6:HAL_TIM_PeriodElapsedCallback	3
+main.c:584:6:HAL_UART_RxCpltCallback	4
+main.c:614:6:Read_Adc	2
+main.c:639:6:Engery_Calulation	5
+main.c:703:6:Error_Handler	1
